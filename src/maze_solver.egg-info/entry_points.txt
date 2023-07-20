@@ -1,0 +1,2 @@
+[console_scripts]
+solve = maze_solver.__main__:main
